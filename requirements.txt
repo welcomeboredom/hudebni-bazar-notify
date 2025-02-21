@@ -1,3 +1,4 @@
-spontit
+pyyaml
 beautifulsoup4
 requests
+pushnotifier
