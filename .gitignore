@@ -1,5 +1,6 @@
 # General files for the project
 links_seen.txt
+hudebni_bazar_result.html
 
 # OSX leaves these everywhere on SMB shares
 ._*
@@ -31,3 +32,10 @@ terraform.tfstate.backup
 
 .venv
 .env
+
+# configuration + logs
+credentials.json
+.credentials*
+config.yml
+*.log
+
